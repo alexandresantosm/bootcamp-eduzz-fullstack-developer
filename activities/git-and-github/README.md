@@ -17,7 +17,7 @@ git config --global user.email email-do-usuario@email.com
 Define o e-mail do usuário.
 
 ```
-git --init
+git init
 ```
 Cria um novo repositório Git.
 
